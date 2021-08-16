@@ -30,6 +30,7 @@ github_username:  j-p-higgins
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
 style: light
+footer: '<a href="https://jphiggins.bandcamp.com/">bandcamp</a> <a href="https://www.youtube.com/channel/UCu6sS1xQcEqPCSRILJZFqDA">youtube</a> <a href="https://twitter.com/j_p_higgins">twitter</a>'
 plugins:
   - jekyll-feed
 
