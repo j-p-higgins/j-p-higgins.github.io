@@ -3,7 +3,13 @@ layout: home
 title: about
 permalink: /
 ---
-![headshot](/media/images/headshot.jpg)
+
+<img
+  sizes="(min-width: 40em) 600px, 90vw"
+  srcset="/media/images/headshot_200.jpg 200w,
+          /media/images/headshot_400.jpg 400w,
+          /media/images/headshot.jpg 600w"
+  alt="Headshot of Jonathan Higgins">
 
 # Jonathan Higgins
 
