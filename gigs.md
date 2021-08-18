@@ -4,11 +4,12 @@ title: gigs
 permalink: /gigs/
 ---
 <img
-  sizes="(min-width: 40em) 600px, 90vw"
-  srcset="/media/images/gigs_new_200.jpg 200w,
-          /media/images/gigs_new_400.jpg 400w,
-          /media/images/gigs_new.jpg 600w"
-  alt="Black and white photo of Glitch Turntablism gig">
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/gigs_400.jpg 400w,
+          /media/images/gigs_600.jpg 600w,
+          /media/images/gigs.jpg 800w"
+  alt="A glitch turntablism performance, washed in brightly coloured stage lights">
+
 
 | When | Where | What |
 | --- | --- | --- |
