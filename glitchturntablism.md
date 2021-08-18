@@ -1,6 +1,7 @@
 ---
 layout: page
-title: glitch turntablism
+title: Glitch Turntablism - Jonathan Higgins
+menu: glitch turntablism
 permalink: /glitchturntablism/
 ---
 

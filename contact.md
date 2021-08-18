@@ -1,7 +1,8 @@
 ---
 layout: page
-title: contact
+title: Contact - Jonathan Higgins
 permalink: /contact/
+menu: contact
 ---
 
 # update coming soon

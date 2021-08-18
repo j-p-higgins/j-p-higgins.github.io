@@ -1,7 +1,8 @@
 ---
 layout: home
-title: about
+title: Jonathan Higgins
 permalink: /
+menu: about
 ---
 
 <img

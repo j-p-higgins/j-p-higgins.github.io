@@ -1,7 +1,8 @@
 ---
 layout: page
-title: gigs
+title: Gigs - Jonathan Higgins
 permalink: /gigs/
+menu: gigs
 ---
 <img
   sizes="(min-width: 56em) 800px, 90vw"

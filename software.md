@@ -1,7 +1,8 @@
 ---
 layout: page
-title: software
+title: Software - Jonathan Higgins
 permalink: /software/
+menu: software
 ---
 
 # update coming soon
