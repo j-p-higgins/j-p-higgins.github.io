@@ -5,23 +5,23 @@ permalink: /music/
 menu: music
 ---
 
-<details>
-<summary>Fixed Media (click to expand)</summary>
+[Fixed Media](#fixed-media) [Scores](#scores) [Installations](#installations)
 
-## heading
-# heading
 
-</details>
+## Fixed Media
 
-<details>
-  <summary> <b>Scores</b> (click to expand)</summary>
+### South on North (2021)
 
-## heading
-# heading
+![](/media/audio/south_on_north.mp3)
 
-</details>
+without !
+[](/media/audio/south_on_north.mp3)
 
-<details>
-  <summary> <b>Installations</b> (click to expand)</summary>
-  dfggdf
-</details>
+Description
+
+
+## Scores
+
+
+
+## Installations
