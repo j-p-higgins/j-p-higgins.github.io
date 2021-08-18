@@ -27,7 +27,7 @@ Phone recordings of a journey going south on the Northern Line processed and aug
 <details>
  <summary>More details</summary>
 <a href="https://jphiggins.bandcamp.com/track/south-on-north" target="_blank">Purchase on Bandcamp</a>
-</details> <br>
+</details> 
 
 ### Wallpaper (2020)
 
@@ -35,6 +35,7 @@ Phone recordings of a journey going south on the Northern Line processed and aug
   <source src="/media/audio/wallpaper.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+
 Words from those without access to the internet transformed through feedback on Zoom. Also available on 0330 818 0351 (calls cost your standard landline rate).
 <details>
  <summary>More details</summary>
@@ -48,7 +49,7 @@ Performers: Patricia Auchterlonie, Mimi Doulton, Ella Taylor and Juliet Wallace.
 Supported by Sound and Music's ‘Interpreting Isolation’ Grants.<br><br>
 
 <a href="https://jphiggins.bandcamp.com/album/wallpaper" target="_blank">Purchase on Bandcamp</a>
-</details><br>
+</details>
 
 ### Bootlegs (2019)
 
@@ -57,7 +58,7 @@ Supported by Sound and Music's ‘Interpreting Isolation’ Grants.<br><br>
 An EP of improvisations performed on hacked CD players. Recorded in a feedback loop with each track being a reprocessing of the previous until all trace of the original is lost. 
 
 <details>
- <summary>Details</summary>
+ <summary>More details</summary>
 
 Bootlegs began as two low quality recordings of glitch turntablism gigs. To make the first track of the EP, these raw, unprocessed recordings were burnt to CDs, improvised with and the output recorded in a single continuous take. This improvisation was then burnt to CDs and used as the source material for an improvisation for the second track; this iterative process was repeated for each track on the EP. With each iteration the sounds become further removed from the original bootleg gig recordings until eventually almost all trace is lost. By the end all that is left is the sound of the CD players themselves.<br><br>
 
@@ -66,7 +67,23 @@ Bootlegs is built from sounds recorded at Liquid Sky, Berlin (01.05.19) and Hatc
 Released on Fractal Meat Cuts.<br><br>
 
 <a href="https://jphiggins.bandcamp.com/album/bootlegs" target="_blank">Purchase on Bandcamp</a>
-</details><br>
+</details>
+
+### Bluetooth Disruptions (2019)
+
+<audio controls>
+  <source src="/media/audio/bluetooth_disruptions.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Countering claims that using noise of the media is an act of nostalgia by composing with Bluetooth. 
+
+<details>
+ <summary>More details</summary>
+
+Discourse on music which utilises the noise of a medium often focuses on how this process can be viewed as an act of nostalgia. Whilst in many cases this can be true often the utilisation of these sounds can be for other reasons. Bluetooth Disruptions looks to apply techniques often utilised by artists working with the noise of mediums like tape and vinyl to contemporary ‘noiseless’ audio mediums. All sounds utilised in this composition were created by interfering with and disrupting streams of Bluetooth audio. 
+
+</details>
 
 
 
