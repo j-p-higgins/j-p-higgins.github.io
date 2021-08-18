@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Glitch Turntablism - Jonathan Higgins
-menu: glitch turntablism
-permalink: /glitchturntablism/
+title: Improvisation - Jonathan Higgins
+menu: improvisation
+permalink: /improvisation/
 ---
 
 # update coming soon

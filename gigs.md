@@ -74,4 +74,5 @@ menu: gigs
 |15.11.14, 19:00| [Sound Junction @ Firth Hall, Sheffield](https://www.facebook.com/events/1450356515249777/){:target="_blank"} | Niederau (Remix)|
 |22.08.14, 19:30| Mentanast @ Nexus Art Cafe, Manchester | Drum Solo |
 |18.09.14, 22:30| [International Computer Music Conference, Athens](http://icmc14-smc14.eu/program/conference-program/music_program.html){:target="_blank"} | Drum Solo |
+|18.09.14, 22:30| [International Computer Music Conference, Athens](http://icmc14-smc14.eu/program/conference-program/music_program.html){:target="_blank"} | Drum Solo |
 |02.04.14, 19:00| [Sound Junction @ Drama Studio, Sheffield](https://www.sheffield.ac.uk/usss/soundjunction/1.328247){:target="_blank"} | Drum Solo |
