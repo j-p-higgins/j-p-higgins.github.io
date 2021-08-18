@@ -4,47 +4,40 @@ title: Music - Jonathan Higgins
 permalink: /music/
 menu: music
 ---
+<img
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/gigs_400.jpg 400w,
+          /media/images/gigs_600.jpg 600w,
+          /media/images/gigs.jpg 800w"
+  alt="A glitch turntablism performance, washed in brightly coloured stage lights">
 
-[Fixed Media](#fixed-media) [Scores](#scores) [Installations](#installations)
+Jump to a section: [Fixed Media](#fixed-media) [Scores](#scores) [Installations](#installations)
 
 
 ## Fixed Media
 
 ### South on North (2021)
 
-<img
-  sizes="(min-width: 56em) 800px, 90vw"
-  srcset="/media/images/south_on_north_400.jpg 400w,
-          /media/images/south_on_north_600.jpg 600w,
-          /media/images/south_on_north.jpg 800w"
-  alt="Glitched rendering of the mind the gap London Underground sign">
-  
 <audio controls>
   <source src="/media/audio/south_on_north.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-<details>
- <summary>Details</summary>
-Phone recordings of a journey going south on the Northern Line processed and augmented through Holly Herndon's AI voice generator <a href="https://holly.plus/" target="_blank">Holly +</a>.<br><br>
 
+Phone recordings of a journey going south on the Northern Line processed and augmented through Holly Herndon's AI voice generator <a href="https://holly.plus/" target="_blank">Holly +</a>.
+<details>
+ <summary>More details</summary>
 <a href="https://jphiggins.bandcamp.com/track/south-on-north" target="_blank">Purchase on Bandcamp</a>
 </details> <br>
 
 ### Wallpaper (2020)
 
-<img
-  sizes="(min-width: 56em) 800px, 90vw"
-  srcset="/media/images/wallpaper_400.jpg 400w,
-          /media/images/wallpaper_600.jpg 600w,
-          /media/images/wallpaper.jpg 800w"
-  alt="Blurred grey and white geometric shapes from the album cover from Wallpaper">
-  
 <audio controls>
   <source src="/media/audio/wallpaper.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
+Words from those without access to the internet transformed through feedback on Zoom. Also available on 0330 818 0351 (calls cost your standard landline rate).
 <details>
- <summary>Details</summary>
+ <summary>More details</summary>
 
 During isolation we have looked to the internet to replace in person communication. Zoom and similar services have provided much needed interaction for many. However, those who lack access to the internet are excluded from these virtual social spaces. Wallpaper utilises words from those isolating without access to the internet. In an online recording session their words were read back, performed and manipulated via the imperfections of the internet until digital noise overtook all meaning. These recordings were then arranged to create Wallpaper.<br><br>
 
@@ -59,14 +52,9 @@ Supported by Sound and Music's ‘Interpreting Isolation’ Grants.<br><br>
 
 ### Bootlegs (2019)
 
-<img
-  sizes="(min-width: 56em) 800px, 90vw"
-  srcset="/media/images/bootlegs_400.jpg 400w,
-          /media/images/bootlegs_600.jpg 600w,
-          /media/images/bootlegs.jpg 800w"
-  alt="Dimly lit stairwell of a train station from Bootlegs album cover">
-  
 [Listen on Bandcamp](https://fractalmeat.bandcamp.com/album/bootlegs){:target="_blank"}
+
+An EP of improvisations performed on hacked CD players. Recorded in a feedback loop with each track being a reprocessing of the previous until all trace of the original is lost. 
 
 <details>
  <summary>Details</summary>
