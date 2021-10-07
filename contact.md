@@ -5,4 +5,5 @@ permalink: /contact/
 menu: contact
 ---
 
-{% include contact-form.html %}
+Twitter: [@j_p_higgins](https://twitter.com/j_p_higgins){:target="_blank"}
+Email: jonathan@jphiggins.co.uk
