@@ -14,7 +14,9 @@ menu: gigs
 
 | When | Where | What |
 | --- | --- | --- |
-|TBC 22-24.09.21 | [CMMAS El Festival Visiones Sonoras, Livestream](https://en.cmmas.com/visionessonoras17-landing){:target="_blank"} | Wallpaper |
+|01.11.21, TBC| Performance Space, City, University of London | Man in Regent Street |
+|21.10.21, 19:00| [Recital Hall, Royal Birmingham Conservatoire](https://www.bcu.ac.uk/conservatoire/events-calendar/mimi-doulton-21-10-2021){:target="_blank"} | Man in Regent Street |
+|22 - 24.09.21 | [CMMAS El Festival Visiones Sonoras, Livestream](https://en.cmmas.com/visionessonoras17-landing){:target="_blank"} | Wallpaper |
 |10.06.21, 19:00 | [City, Summer Sounds Livestream](https://www.youtube.com/watch?v=6uZCgnhdr7g){:target="_blank"} | Man in Regent Street |
 |22.04.21, 17:30 | [Beast Feast 2021 Livestream](http://www.beast.bham.ac.uk/beast-feast-2021/thursday-22-april/){:target="_blank"} | Wallpaper |
 |_______    |_______    |_______   |
