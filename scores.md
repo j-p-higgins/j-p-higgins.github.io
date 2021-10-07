@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Music - Jonathan Higgins
-permalink: /music/scores
-menu: music
+title: Instrumental Music - Jonathan Higgins
+permalink: /instrumental_music
+menu: instrumental music
 ---
 <img
   sizes="(min-width: 56em) 800px, 90vw"
   srcset="/media/images/man_in_regent_street_400.jpg 400w,
           /media/images/man_in_regent_street_600.jpg 600w,
           /media/images/man_in_regent_street.jpg 800w"
-  alt="Image of a train station entrance at night">
+  alt="Mimi Doulton stood in front of a four metre torn score suspended from the ceiling">
 [Mimi Doulton](http://mimidoulton.com/){:target="_blank"} performing Man in Regent Street
 
 ## Music for Instruments

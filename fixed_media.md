@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Music - Jonathan Higgins
-permalink: /music/fixed_media
-menu: music
+title: Fixed Media - Jonathan Higgins
+permalink: /fixed_media
+menu: fixed media
 ---
 <img
   sizes="(min-width: 56em) 800px, 90vw"

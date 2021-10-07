@@ -10,11 +10,11 @@ menu: music
   srcset="/media/images/turntables_400.jpg 400w,
           /media/images/turntables_600.jpg 600w,
           /media/images/turntables.jpg 800w"
-  alt="A glitch turntablism performance, washed in brightly coloured stage lights">
+  alt="black and white image of two cd players with a dj mixer with some green highlights">
 
 This page contains details about recent and current projects. Info, recordings and other performance files for all previous compositions dating back to 2014 can be found on the following pages:
 
-[music for fixed media](/music/fixed_media/) - [music for instruments (+ live electronics)](/music/scores/) - [glitch turntablism](/music/glitch_turntablism/) - [installations](/music/installations/)
+[music for fixed media](/fixed_media) - [music for instruments (+ live electronics)](/instrumental_music) - [glitch turntablism](/glitch-turntablism) - [installations](/installations)
 
 # Recent Projects
 ### *Glitch Turntablism* (2018 - ongoing)
@@ -28,7 +28,7 @@ Noisy, glitchy free improvisation using three hacked Sony Discman players and a 
 In 2019 I released an EP of Glitch Turntablism title *Bootlegs* on the label [Fractal Meat Cuts](https://fractalmeat.bandcamp.com/){:target="_blank"}. *Bootlegs* began as two low quality recordings of glitch turntablism gigs. These raw, unprocessed recordings were burnt to CDs, improvised with and the output recorded. This process was repeated cyclically to make the four tracks on the EP. By the end all that is left is the sound of the CD players themselves. 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2747504046/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://fractalmeat.bandcamp.com/album/bootlegs">Bootlegs by Jonathan Higgins</a></iframe>
 
-For details of upcoming and previous gigs [check here](/gigs).
+For details of upcoming and previous gigs [check here](/gigs) and for more about Glitch Turntablism [check here](/glitch-turntablism).
 
 ---
 ### *Man in Regent Street* (2021)
@@ -59,7 +59,7 @@ Fixed media composition and telephone hotline: 0330 818 0351 (calls cost standar
   srcset="/media/images/wallpaper_400.jpg 400w,
           /media/images/wallpaper_600.jpg 600w,
           /media/images/wallpaper.jpg 800w"
-  alt="A glitch turntablism performance, washed in brightly coloured stage lights">
+  alt="Cover art for Wallpaper EP">
 
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2601694177/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jphiggins.bandcamp.com/album/wallpaper">Wallpaper by Jonathan Higgins</a></iframe>

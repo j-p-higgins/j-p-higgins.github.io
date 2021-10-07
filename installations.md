@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Music - Jonathan Higgins
-permalink: /music/installations
-menu: music
+title: Installations - Jonathan Higgins
+permalink: /installations
+menu: installations
 ---
 <img
   sizes="(min-width: 56em) 800px, 90vw"
