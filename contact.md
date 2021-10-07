@@ -13,3 +13,10 @@ menu: contact
   
 Twitter: [@j_p_higgins](https://twitter.com/j_p_higgins){:target="_blank"}
 Email: jonathan@jphiggins.co.uk
+
+<form action="https://getform.io/f/9b82e9ec-938e-4424-88d3-50ee09989e15" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="text" name="message">
+    <button type="submit">Send</button>
+</form>

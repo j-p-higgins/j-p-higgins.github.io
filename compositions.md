@@ -13,7 +13,7 @@ menu: music
   alt="A glitch turntablism performance, washed in brightly coloured stage lights">
 [Mimi Doulton](http://mimidoulton.com/){:target="_blank"} performing Man in Regent Street
 
-This page contains a collection of my compositions and projects. It is relatively complete and usually fairly up to date, give or take a few months. There is now quite a lot here and this will be rearranged into something more manageable in the future. For now, compositions are split up into sections and arranged by date to help make navigating this page easier. You can jump to a section by clicking one of these links: [Fixed Media](#fixed-media) [Scores](#scores) [Improvisation](#improvisation) [Installations](#installations). If you have any questions about any of these pieces, please do get in touch via the [contact page](/contact/).
+This page contains a collection of my compositions and projects. It is relatively complete and usually fairly up to date, give or take a few months. There is now quite a lot here and this will be rearranged into something more manageable in the future. For now, compositions are split up into sections and arranged by date to help make navigating this page easier. You can jump to a section by clicking one of these links: [Fixed Media](#fixed-media) [Scores](#scores) [Improvisation](#improvisation) [Installations](#installations). If you have any questions about any of these pieces [please do get in touch](/contact/).
 
 
 ## Fixed Media
