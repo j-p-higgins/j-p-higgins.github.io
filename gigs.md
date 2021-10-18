@@ -18,6 +18,7 @@ menu: gigs
 |21.10.21, 19:00| [Recital Hall, Royal Birmingham Conservatoire](https://www.bcu.ac.uk/conservatoire/events-calendar/mimi-doulton-21-10-2021){:target="_blank"} | Man in Regent Street |
 |16.10.21, 17:00| [LABYRINTH Triptych, Alte Muenze, Berlin](https://www.universe.com/events/labyrinth-the-cabinet-of-curiosities-3-inferno-saturday-16th-tickets-JRQN0T){:target="_blank"} | Man in Regent Street |
 |15.10.21, 17:00| [LABYRINTH Triptych, Alte Muenze, Berlin](https://www.universe.com/events/labyrinth-the-cabinet-of-curiosities-3-inferno-friday-15th-tickets-4WT9RF){:target="_blank"} | Man in Regent Street |
+|19.09.21, 09:00 | [Final of 7th John Cage Interpretation Award, Halberstadt, Germany](https://johncageaward.lpages.co/john-cage-award/){:target="_blank"} | Man in Regent Street |
 |22 - 24.09.21 | [CMMAS El Festival Visiones Sonoras, Livestream](https://en.cmmas.com/visionessonoras17-landing){:target="_blank"} | Wallpaper |
 |10.06.21, 19:00 | [City, Summer Sounds Livestream](https://www.youtube.com/watch?v=6uZCgnhdr7g){:target="_blank"} | Man in Regent Street |
 |22.04.21, 17:30 | [Beast Feast 2021 Livestream](http://www.beast.bham.ac.uk/beast-feast-2021/thursday-22-april/){:target="_blank"} | Wallpaper |
