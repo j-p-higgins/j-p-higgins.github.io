@@ -14,6 +14,7 @@ menu: gigs
 
 | When | Where | What |
 | --- | --- | --- |
+|27.01.22, 19:30| [Orchestra of Opera North, Huddersfield Town Hall](https://www.operanorth.co.uk/whats-on/beethovens-fifth/){:target="_blank"} | Wallpaper |
 |01.11.21, 19:00| [Performance Space, City, University of London](https://www.city.ac.uk/news-and-events/events/2021/11/disruptions){:target="_blank"} | Man in Regent Street |
 |21.10.21, 19:00| [Recital Hall, Royal Birmingham Conservatoire](https://www.bcu.ac.uk/conservatoire/events-calendar/mimi-doulton-21-10-2021){:target="_blank"} | Man in Regent Street |
 |16.10.21, 17:00| [LABYRINTH Triptych, Alte Muenze, Berlin](https://www.universe.com/events/labyrinth-the-cabinet-of-curiosities-3-inferno-saturday-16th-tickets-JRQN0T){:target="_blank"} | Man in Regent Street |
