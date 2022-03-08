@@ -32,7 +32,7 @@ remote_theme: j-p-higgins/jekyll-theme-console
 style: light
 footer: '<a href="https://jphiggins.bandcamp.com/" target="_blank">bandcamp</a> <a href="https://www.youtube.com/channel/UCu6sS1xQcEqPCSRILJZFqDA" target="_blank">youtube</a> <a href="https://twitter.com/j_p_higgins" target="_blank">twitter</a>'
 plugins:
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-seo-tag
 
 header_pages:

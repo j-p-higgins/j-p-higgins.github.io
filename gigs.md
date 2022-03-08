@@ -10,7 +10,8 @@ menu: gigs
           /media/images/gigs_600.jpg 600w,
           /media/images/gigs.jpg 800w"
   alt="A glitch turntablism performance, washed in brightly coloured stage lights">
-
+<br>
+This page lists details of upcoming and past live performances, info on radio broadcasts can be [found here](/radio/).
 
 | When | Where | What |
 | --- | --- | --- |
