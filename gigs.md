@@ -15,7 +15,10 @@ This page lists details of upcoming and past live performances, info on radio br
 
 | When | Where | What |
 | --- | --- | --- |
-|09.04.22, tbc| [Handmade Music, Sonorities, Belfast](https://sonorities.net/){:target="_blank"} | Glitch Turntablism |
+|04.07.22, TBC| ICMC, Limerick | Wallpaper |
+|05.06.22, 22:00| TBA, Herefordshire | Glitch Turntablism |
+|24.05.22, 19:00| [City Summer Sounds, London](https://www.city.ac.uk/news-and-events/events/2022/may/from-the-city-studios){:target="_blank"} | Polar |
+|09.04.22, 23:00| [Handmade Music, Sonorities, Belfast](https://sonorities.net/){:target="_blank"} | Glitch Turntablism |
 |27.01.22, 19:30| [Orchestra of Opera North, Huddersfield Town Hall](https://www.operanorth.co.uk/whats-on/beethovens-fifth/){:target="_blank"} | Squeaky Gates |
 |01.11.21, 19:00| [Performance Space, City, University of London](https://www.city.ac.uk/news-and-events/events/2021/11/disruptions){:target="_blank"} | Man in Regent Street |
 |21.10.21, 19:00| [Recital Hall, Royal Birmingham Conservatoire](https://www.bcu.ac.uk/conservatoire/events-calendar/mimi-doulton-21-10-2021){:target="_blank"} | Man in Regent Street |
