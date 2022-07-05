@@ -15,8 +15,7 @@ This page lists details of upcoming and past live performances, info on radio br
 
 | When | Where | What |
 | --- | --- | --- |
-|04.07.22, TBC| ICMC, Limerick | Wallpaper |
-|05.06.22, 22:00| TBA, Herefordshire | Glitch Turntablism |
+|07.07.22, 14:20| [ICMC, Limerick](https://icmc2022.org/programme/){:target="_blank"} | Wallpaper |
 |24.05.22, 19:00| [City Summer Sounds, London](https://www.city.ac.uk/news-and-events/events/2022/may/from-the-city-studios){:target="_blank"} | Polar |
 |09.04.22, 23:00| [Handmade Music, Sonorities, Belfast](https://sonorities.net/){:target="_blank"} | Glitch Turntablism |
 |27.01.22, 19:30| [Orchestra of Opera North, Huddersfield Town Hall](https://www.operanorth.co.uk/whats-on/beethovens-fifth/){:target="_blank"} | Squeaky Gates |
