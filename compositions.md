@@ -31,7 +31,7 @@ Remixing Schoenberg
 	
 EP released by [Classical Remix](https://www.classicalremix.org/){:target="_blank"} July 2022, on [Bandcamp](https://classicalremix.bandcamp.com/album/sechs-kleine-klavierst-cke){:target="_blank"} and streaming services.
 	
-Sechs kleine Klavierstücke (Six Little Piano Pieces) is a set of pieces for solo piano written by the Austrian composer Arnold Schoenberg in 1911. For this EP I remixed each of these little pieces, guided by the original written tempo instructions of each movement. The miniatures were reimagined through electronics, stretching, glitching and warping the original material into something both old and new.
+Sechs kleine Klavierstücke (Six Little Piano Pieces) is a set of pieces for solo piano written by the Austrian composer Arnold Schoenberg in 1911. For this EP I remixed each of these little pieces guided by the original tempo instructions of each movement. The miniatures were reimagined through electronics, stretching, glitching and warping the original piano material into something both old and new.
 
 More information about this release can be found in [this podcast with Classical Remix](https://soundcloud.com/classical_remix/jonathan-higgins-classical-remix-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing){:target="_blank"}.
 
