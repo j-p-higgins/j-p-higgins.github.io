@@ -17,6 +17,26 @@ This page contains details about recent and current projects. Info, recordings a
 [music for fixed media](/fixed_media) - [music for instruments (+ live electronics)](/instrumental_music) - [glitch turntablism](/glitch-turntablism) - [installations](/installations)
 
 # Recent Projects
+### *Sechs Kleine Klavierstücke* (2022)
+Remixing Schoenberg
+
+<img
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/6_little_piano_400.jpg 400w,
+          /media/images/6_little_piano_600.jpg 600w,
+          /media/images/6_little_piano.jpg 800w"
+  alt="Cover art for Sechs Kleine Klavierstücke EP, contains a warped black and white photograph of Schoenberg">
+  
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=508327169/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://classicalremix.bandcamp.com/album/sechs-kleine-klavierst-cke">Sechs kleine Klavierstücke by Jonathan Higgins &amp; Arnold Schoenberg</a></iframe>
+	
+EP released by [Classical Remix](https://www.classicalremix.org/){:target="_blank"} July 2022, on [Bandcamp](https://classicalremix.bandcamp.com/album/sechs-kleine-klavierst-cke){:target="_blank"} and streaming services.
+	
+Sechs kleine Klavierstücke (Six Little Piano Pieces) is a set of pieces for solo piano written by the Austrian composer Arnold Schoenberg in 1911. For this EP I remixed each of these little pieces, guided by the original written tempo instructions of each movement. The miniatures were reimagined through electronics, stretching, glitching and warping the original material into something both old and new.
+
+More information about this release can be found in [this podcast with Classical Remix](https://soundcloud.com/classical_remix/jonathan-higgins-classical-remix-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing){:target="_blank"}.
+
+---
+	
 ### *Glitch Turntablism* (2018 - ongoing)
 Improvising with hacked CD Players
 <div class="videoWrapper">
