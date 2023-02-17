@@ -17,6 +17,29 @@ This page contains details about recent and current projects. Info, recordings a
 [music for fixed media](/fixed_media) - [music for instruments (+ live electronics)](/instrumental_music) - [glitch turntablism](/glitch-turntablism) - [installations](/installations)
 
 # Recent Projects
+
+### *Good thanks, you?* (2022)
+Album of wonky, glitchy, droney tracks
+
+<img
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/goodthanks_400.jpg 400w,
+          /media/images/goodthanks_600.jpg 600w,
+          /media/images/goodthanks.jpg 800w"
+  alt="Cover art for Good thanks, you?, contains purple and white static with album title overlayed">
+  
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3309328842/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://flamingpines.bandcamp.com/album/good-thanks-you">Good thanks, you? by Jonathan Higgins</a></iframe>
+	
+Album released by [Flaming Pines](https://www.flamingpines.com/){:target="_blank"} Ocotber 2022, on [Bandcamp](https://flamingpines.bandcamp.com/album/good-thanks-you){:target="_blank"} and streaming services.
+	
+"Good thanks, you?"
+This minimal, innocuous and, some might even say, deflecting phrase so many of us have used, serves as the starting point for London-based composer Jonathan Higgins' investigation of overload and tension.
+"Over the last couple of years I have been writing tracks every time I felt particularly anxious or overwhelmed," he explains.
+Composed on Higgins' modified CD players which malfunction and glitch their way through sound samples, this album emphasises not so much the beauty of malfunction, but its ubiquity. The glitch in Higgins' work is not an exception, but the norm. The malfunction he has built into his modified CD players forms here the bedrock of his compositions, and the warps, omissions, and possibilities this process involves serves to echo our own struggles to adapt, communicate and make sense of the ever shifting, ever unpredictable, layers of life itself, and our connections with others. 
+
+---
+
+
 ### *Sechs Kleine Klavierstücke* (2022)
 Remixing Schoenberg
 
