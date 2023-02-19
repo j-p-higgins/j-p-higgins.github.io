@@ -17,7 +17,7 @@ menu: justsound
 Label specialising in compilations of new, experimental sounds from the UK and Ireland. Releases will be a couple of times a year on CD and digital and kept as affordable as possible. Any profits generated will go to charity. 
 
 ### Submit a track if…
-- It loosely falls under the umbrella of ‘experimental’ including, but not limited to, noise, drone, field recording, ambient, glitch, music concrete, free improvisation, contemporary classical, etc. 
+- It loosely falls under the umbrella of ‘experimental’ including, but not limited to, noise, drone, field recording, ambient, glitch, musique concrète, free improvisation, contemporary classical, etc. 
 - You are currently based in the UK or Ireland
 - The track hasn’t been released elsewhere before 
 - You own full copyright (no uncleared samples)
