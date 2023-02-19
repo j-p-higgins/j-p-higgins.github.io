@@ -20,7 +20,7 @@ Label specialising in compilations of new, experimental sounds from the UK and I
 - It loosely falls under the umbrella of ‘experimental’ including, but not limited to, noise, drone, field recording, ambient, glitch, music concrete, free improvisation, contemporary classical, etc. 
 - You are currently based in the UK or Ireland
 - The track hasn’t been released elsewhere before 
-- You own full copyright of your track
+- You own full copyright of the track
 - Your track is less than 10 minutes long (longer tracks will be considered but will be unlikely to be picked)
 - You haven’t submitted something else already, one track per person per year please!
 
