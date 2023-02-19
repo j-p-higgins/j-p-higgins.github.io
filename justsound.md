@@ -22,7 +22,7 @@ Label specialising in compilations of new, experimental sounds from the UK and I
 - The track hasn’t been released elsewhere before 
 - You own full copyright of the track
 - Your track is less than 10 minutes long (longer tracks will be considered but will be unlikely to be picked)
-- You haven’t submitted something else already, one track per person per year please!
+- You haven’t submitted something else already this year, one track per person per year please!
 
 Please submit unmastered full quality PCM files (wav or aiff), 44.1kHz, 16bit or better. All tracks submitted will be considered for all compilations released that year. You retain all ownership of your work.
 
