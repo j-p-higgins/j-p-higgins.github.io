@@ -15,7 +15,7 @@ menu: justsound
 # Just Sound
 
 Label specialising in compilations of new, experimental sounds from the UK and Ireland. Releases will be a couple of times a year on CD and digital and kept as affordable as possible. Any profits generated will go to charity. 
-
+  
 ### Submit a track if…
 - It loosely falls under the umbrella of ‘experimental’ including, but not limited to, noise, drone, field recording, ambient, glitch, musique concrète, free improvisation, contemporary classical, etc. 
 - You are currently based in the UK or Ireland
@@ -23,15 +23,15 @@ Label specialising in compilations of new, experimental sounds from the UK and I
 - You own full copyright (no uncleared samples)
 - Your track is less than 10 minutes long (longer tracks will be considered but will be unlikely to be picked)
 - You haven’t submitted something else already this year, one track per person per year please!
-
-
+  
+  
 Please submit unmastered full quality PCM files (wav or aiff), 44.1kHz, 16bit or better. All tracks submitted will be considered for all compilations released that year. You retain all ownership of your work.
-
+  
 All money made by each release will be donated to charity. The first compilation will support [Gendered Intelligence](https://genderedintelligence.co.uk/){:target="_blank"}. For future releases those included on the compilation will be invited to vote on the charity. 
-
-### [Apply here](https://forms.gle/kswE6G149TGaaLre9){:target="_blank"}
-
-
+  
+### [Click here to apply](https://forms.gle/kswE6G149TGaaLre9){:target="_blank"}
+   
+   
 If you are interested in being a guest curator for a future compilation, please get in touch at justsound@jphiggins.co.uk
 
 
