@@ -14,6 +14,71 @@ Cover of [Bootlegs EP (2019)](https://fractalmeat.bandcamp.com/album/bootlegs){:
 
 ## Music for Fixed Media
 
+### *Good thanks, you?* (2022)
+  
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3309328842/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://flamingpines.bandcamp.com/album/good-thanks-you">Good thanks, you? by Jonathan Higgins</a></iframe>
+	
+"Good thanks, you?"
+This minimal, innocuous and, some might even say, deflecting phrase so many of us have used, serves as the starting point for London-based composer Jonathan Higgins' investigation of overload and tension.
+"Over the last couple of years I have been writing tracks every time I felt particularly anxious or overwhelmed," he explains.
+Composed on Higgins' modified CD players which malfunction and glitch their way through sound samples, this album emphasises not so much the beauty of malfunction, but its ubiquity. The glitch in Higgins' work is not an exception, but the norm. The malfunction he has built into his modified CD players forms here the bedrock of his compositions, and the warps, omissions, and possibilities this process involves serves to echo our own struggles to adapt, communicate and make sense of the ever shifting, ever unpredictable, layers of life itself, and our connections with others. 
+
+Album released by [Flaming Pines](https://www.flamingpines.com/){:target="_blank"} Ocotber 2022, on [Bandcamp](https://flamingpines.bandcamp.com/album/good-thanks-you){:target="_blank"} and streaming services.
+
+### *Sechs Kleine Klavierstücke* (2022)
+  
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=508327169/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://classicalremix.bandcamp.com/album/sechs-kleine-klavierst-cke">Sechs kleine Klavierstücke by Jonathan Higgins &amp; Arnold Schoenberg</a></iframe>
+	
+Sechs kleine Klavierstücke (Six Little Piano Pieces) is a set of pieces for solo piano written by the Austrian composer Arnold Schoenberg in 1911. For this EP I remixed each of these little pieces guided by the original tempo instructions of each movement. The miniatures were reimagined through electronics, stretching, glitching and warping the original piano material into something both old and new.
+
+EP released by [Classical Remix](https://www.classicalremix.org/){:target="_blank"} July 2022, on [Bandcamp](https://classicalremix.bandcamp.com/album/sechs-kleine-klavierst-cke){:target="_blank"} and streaming services.
+
+### a_single_point (2022)
+
+<audio controls>
+  <source src="/media/audio/coda.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Sitting, still in a single point while everything else moves on. A remix of Andrew Haines' [*Wayward Sketches of a Manual Labourer*](https://ae2-sounds.bandcamp.com/album/wayward-sketches-of-a-manual-labourer){:target="_blank"}. Released as part of the *RENTAL YIELDS: VOLUME THREE* fundraising compilation on Front and Follow.
+
+<a href="https://fandf.bandcamp.com/track/a-single-point" target="_blank">Purchase on Bandcamp</a>
+
+### Coda (2022)
+
+<audio controls>
+  <source src="/media/audio/coda.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+Ticking, disintigration. 
+
+Released as part of the *bivouac of the avant​-​garde: contemporary minimal, electronic and experimental music, vol​.​2* compilation on Difficult Art and Music.
+
+<a href="https://difficultartandmusic.bandcamp.com/track/coda" target="_blank">Purchase on Bandcamp</a>
+
+### *3053* (2022)
+
+<audio controls>
+  <source src="/media/audio/3053.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+A miniature composed from shortwave radio broadcasts coming from Ukraine. 
+
+Released on *Diary of a Madman* on The Dark Outside, a fundraiser for Ukraine Red Cross. 
+
+<a href="https://thedarkoutside.bandcamp.com/track/jonathan-higgins-3053" target="_blank">Purchase on Bandcamp</a>
+
+### *Focus* (2022)
+
+<audio controls>
+  <source src="/media/audio/focus.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+The original recording is of a Canon film SLR camera autofocusing and then taking a photo. I looked to focus in on the individual elements of the sound, starting by using (and misusing) noise reduction tools to isolate each element of the recording: the beeps, shutter clack, winding gears, and background noise. I then processed these to emphasise and draw out the rich details of this minuscule sound. The piece is structured around altering focus. The camera sounds scattered throughout the piece trigger a shift in the various layers of the composition bringing different elements into focus each time. Composed for the Cities and Memory [Obsolete Sounds Project](https://citiesandmemory.com/obsolete-sounds/){:target="_blank"}
+
 ### *South on North* (2021)
 
 <audio controls>
