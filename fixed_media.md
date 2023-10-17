@@ -36,7 +36,7 @@ EP released by [Classical Remix](https://www.classicalremix.org/){:target="_blan
 ### a_single_point (2022)
 
 <audio controls>
-  <source src="/media/audio/coda.mp3" type="audio/mpeg">
+  <source src="/media/audio/a_single_point.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -120,7 +120,7 @@ Supported by Sound and Music's ‘Interpreting Isolation’ Grants.<br><br>
 
 ### *Bootlegs* (2019)
 
-[Listen on Bandcamp](https://fractalmeat.bandcamp.com/album/bootlegs){:target="_blank"}
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2747504046/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://fractalmeat.bandcamp.com/album/bootlegs">Bootlegs by Jonathan Higgins</a></iframe>
 
 An EP of improvisations performed on hacked CD players. Recorded in a feedback loop with each track being a reprocessing of the previous until all trace of the original is lost. 
 
