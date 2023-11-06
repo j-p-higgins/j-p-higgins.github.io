@@ -18,4 +18,4 @@ I am a composer and performer based in London, England. My music focuses on expl
 
 "It’s as if he’s trying to give voice to the pits and spaces that allow a CD to produce audio." - The Quietus
 
-[CV (updated 03.02.22)](/media/misc/jh_cv_03-02-22.pdf){:target="_blank"}
+[CV (updated 06.11.23)](/media/misc/jh_cv_06-11-23.pdf){:target="_blank"}
