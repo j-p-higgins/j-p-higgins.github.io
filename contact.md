@@ -12,6 +12,7 @@ menu: contact
   alt="Two large white greater than symbols on a glitched dark background">
   
 
+For all enquiries relating to Morley College London, please use the contact form on the [Morley College Website](https://www.morleycollege.ac.uk/contact/){:target="_blank"}. For anything else, please use the form below.
 
 <form
   action="https://formspree.io/f/mdoypwae"

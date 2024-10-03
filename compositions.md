@@ -30,7 +30,7 @@ Album of wonky, glitchy, droney tracks
   
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3309328842/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://flamingpines.bandcamp.com/album/good-thanks-you">Good thanks, you? by Jonathan Higgins</a></iframe>
 	
-Album released by [Flaming Pines](https://www.flamingpines.com/){:target="_blank"} Ocotber 2022, on [Bandcamp](https://flamingpines.bandcamp.com/album/good-thanks-you){:target="_blank"} and streaming services.
+Album released by [Flaming Pines](https://www.flamingpines.com/){:target="_blank"} October 2022, on [Bandcamp](https://flamingpines.bandcamp.com/album/good-thanks-you){:target="_blank"} and streaming services.
 	
 "Good thanks, you?"
 This minimal, innocuous and, some might even say, deflecting phrase so many of us have used, serves as the starting point for London-based composer Jonathan Higgins' investigation of overload and tension.
