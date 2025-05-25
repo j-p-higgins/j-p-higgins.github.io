@@ -12,6 +12,23 @@ menu: software
           /media/images/software.jpg 800w"
   alt="closeup of a pure data patch">
 
+# SoundThread - a node based UI for the Composers Desktop Project
+<img
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/soundthread_400.jpg 400w,
+          /media/images/soundthread_600.jpg 600w,
+          /media/images/soundthread.jpg 800w"
+  alt="screenshot of SoundThread">
+
+SoundThread is a cross-platform user interface for The Composers Desktop Project (CDP) suite of sound manipulation tools. It allows for modular style routing of various CDP processes to quickly build up complex Threads that allow for extensive sound manipulation. The goal of SoundThread is to make CDP as user friendly as possible and it is particularly well suited to those new to experimental sound processing.
+
+[More info and download on GitHub](https://github.com/j-p-higgins/SoundThread){:target="_blank"}
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6dOh-Geq6f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+
 # jh.tools
 Esoteric VST plugins made in Puredata compiled with [Camomile](https://github.com/pierreguillot/Camomile){:target="_blank"}. jh.tools plugins and source code are available [on github](https://github.com/j-p-higgins/jh.tools){:target="_blank"}.
 
