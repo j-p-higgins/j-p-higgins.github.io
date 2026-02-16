@@ -30,7 +30,7 @@ github_username:  j-p-higgins
 # Build settings
 remote_theme: j-p-higgins/jekyll-theme-console
 style: light
-footer: '<a href="https://jphiggins.bandcamp.com/" target="_blank">bandcamp</a> <a href="https://www.youtube.com/channel/UCu6sS1xQcEqPCSRILJZFqDA" target="_blank">youtube</a> <a href="https://bsky.app/profile/jphiggins.co.uk" target="_blank">bluesky</a>'
+footer: '<a href="https://jphiggins.bandcamp.com/" target="_blank">bandcamp</a> <a href="https://www.youtube.com/channel/UCu6sS1xQcEqPCSRILJZFqDA" target="_blank">youtube</a> <a href="https://www.instagram.com/j_p_higgins/" target="_blank">instagram</a>'
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -41,6 +41,7 @@ header_pages:
 # - glitchturntablism.md
 # - justsound.md
  - gigs.md
+ - teaching.md
  - research.md
  - software.md
  - contact.md

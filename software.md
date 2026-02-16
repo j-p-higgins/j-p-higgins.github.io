@@ -29,6 +29,19 @@ SoundThread is a cross-platform user interface for The Composers Desktop Project
 </div>
 <br>
 
+# I am Sitting in a Room - Web Recreation
+<img
+  sizes="(min-width: 56em) 800px, 90vw"
+  srcset="/media/images/lucier_400.png 400w,
+          /media/images/lucier_600.png 600w,
+          /media/images/lucier.png 800w"
+  alt="screenshot of SoundThread">
+
+A browser-based implementation of Alvin Lucier's 1969 composition I am Sitting in a Room. Built using Max MSP and RNBO.
+Available at [iamsittinginaroom.co.uk](https://iamsittinginaroom.co.uk/){:target="_blank"}
+Source code available [on Github](https://github.com/j-p-higgins/i-am-sitting-in-a-webpage){:target="_blank"}
+
+
 # jh.tools
 Esoteric VST plugins made in Puredata compiled with [Camomile](https://github.com/pierreguillot/Camomile){:target="_blank"}. jh.tools plugins and source code are available [on github](https://github.com/j-p-higgins/jh.tools){:target="_blank"}.
 
